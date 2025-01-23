@@ -24,9 +24,10 @@ I am a budding software engineer with a solid foundation in programming and a fe
 
 ## 💻 Skills
 
-- **Programming Languages**: HTML, CSS, JavaScript, Core Java (with OOPs)
+- **Programming Languages**:Python, JavaScript, Core Java (with OOPs),HTML, CSS,
+- Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow
 - **Databases**: MySQL, SQL
-- **Frameworks**: MERN Stack
+- **Frameworks**: MERN Stack , Django
 - **Tools & Technologies**: Bootstrap, APIs
 
 ---
